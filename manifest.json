@@ -1,21 +1,41 @@
 {
-  "name": "Tìm Khai Thị",
-  "short_name": "Khai Thị",
-  "start_url": "/",
+  "name": "Radio PMTL",
+  "short_name": "Radio PMTL",
+  "description": "Kênh Phát Thanh Phật Giáo - Pháp Môn Tâm Linh.",
+  "start_url": ".",
   "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#000000",
+  "background_color": "#f0f2f5",
+  "theme_color": "#4f46e5",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Poqhd3bTThVFNEssNAYW3h9XP3KU4igPYcO-nYv3fMN1yV9ZcbEFeXyX1m15dKOFfRkHfb6T96OpmTfOX3AjSVHMYzUvBxEpoz97pf9GkPmeSF27EbUH9OWHfJLib14ERijYR0JF5QKaYdKDRx43zwoFTsvsZN1qSiZluYbmNc-lGPzNhy0XTTjfv0s/s270/cropped-aomb-logo-512-270x270(1).png",
+      "src": "48dp.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "72dp.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "96dp.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "144dp.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "192dp.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Poqhd3bTThVFNEssNAYW3h9XP3KU4igPYcO-nYv3fMN1yV9ZcbEFeXyX1m15dKOFfRkHfb6T96OpmTfOX3AjSVHMYzUvBxEpoz97pf9GkPmeSF27EbUH9OWHfJLib14ERijYR0JF5QKaYdKDRx43zwoFTsvsZN1qSiZluYbmNc-lGPzNhy0XTTjfv0s/s270/cropped-aomb-logo-512-270x270(1).png",
+      "src": "512dp.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
 }
-
